@@ -102,4 +102,4 @@ $RECYCLE.BIN/
 *.lnk
 
 
-node_modules/*
+node_modules/

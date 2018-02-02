@@ -34,7 +34,7 @@ var templateTodo = (todo) => {
 	// `
 	var t = `
 		<div class="sep5"></div>
-		<div class="todo-cell" data-id="${id}">
+		<div class="todo-cell animated fadeInLeft" data-id="${id}">
 			<span class="todo-task ${completed}">${task}</span>
 			<div class="btn-group"role="group" aria-label="...">
 				<button type="button" class="btn btn-info todo-done">完成</button>
