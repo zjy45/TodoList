@@ -1,4 +1,3 @@
-/node_modules
 /.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -101,3 +100,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+node_modules/
